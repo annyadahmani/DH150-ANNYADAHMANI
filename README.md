@@ -10,8 +10,8 @@ Use the scale 1-3, 3 for major
 usability problem, important to
 fix, top priority
 
-Rating  | Importance  |
-:---: | :---  |
-1  | Cosmetic problem = need not be fixed unless extra time is available on project  |
-2  | Minor usability problem = low priority  |
-3  | Major usability problem = important to fix, top priority  |
+Scale  | Problem  | Priority  |
+:---: | :---  | :---: |
+1  | Cosmetic | no priority and can be fixed if there is extra time on project  |
+2  | Minor usability | low priority  |
+3  | Major usability | important to fix and top priority  |
