@@ -14,4 +14,28 @@ Scale  | Problem  | Information  |
 2  | Minor usability | fixing this should be given low priority  |
 3  | Major usability | important to fix, so should be given high priority  |
 
+### Joy of Baking
+#### Description 
+> URL: https://www.joyofbaking.com/ 
+> basic information about the competitor
+web/app including the name, the screenshot
+of the frontpage, active URL(link)
+#### Initial overall evaluation
+> initial overall evaluation about web/app
+before heuristic evaluation
+#### Heuristics evaluation
+> Discussed all 10 heuristics with sensible
+argument/comments for all screens
+
+### Cake and Baking Recipes For You
+#### Description 
+> basic information about the competitor
+web/app including the name, the screenshot
+of the frontpage, active URL(link)
+#### Initial overall evaluation
+> initial overall evaluation about web/app
+before heuristic evaluation
+#### Heuristics evaluation
+> Discussed all 10 heuristics with sensible
+argument/comments for all screens
 
