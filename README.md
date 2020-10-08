@@ -6,10 +6,12 @@
 
 
 ### Severity Rating Scale
-This rating uses a 1-3 scale to show what each number corresponds to in terms of problem and priority.
+This rating uses a 1-3 scale to show what each number corresponds to in terms of problem and priority. Credit to https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-Scale  | Problem  | Priority  |
+Scale  | Problem  | Information  |
 :---: | :---  | :---: |
-1  | Cosmetic | no priority: can be fixed if there is extra time on project  |
-2  | Minor usability | low priority  |
-3  | Major usability | top priority: important to fix  |
+1  | Cosmetic only |  need not be fixed unless extra time is available on project  |
+2  | Minor usability | fixing this should be given low priority  |
+3  | Major usability | important to fix, so should be given high priority  |
+
+
