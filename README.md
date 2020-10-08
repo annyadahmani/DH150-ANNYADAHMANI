@@ -6,7 +6,7 @@
 
 
 ### Severity Rating Scale
-This rating uses a 1-3 scale to show what each number corresponds to in terms of problem and priority. Credit to https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
+This rating uses a 1-3 scale to show what each number corresponds to in terms of problem and priority. **Credit for scale rating given to:** https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
 Scale  | Problem  | Information  |
 :---: | :---  | :---: |
