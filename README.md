@@ -17,6 +17,7 @@ Scale  | Problem  | Information  |
 ### Resource no. 1: Joy of Baking
 #### Description 
 > URL: https://www.joyofbaking.com/ 
+
 > basic information about the competitor
 web/app including the name, the screenshot
 of the frontpage, active URL(link)
