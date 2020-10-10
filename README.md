@@ -101,10 +101,17 @@ Rating  | Arguments/comments  | Possible solutions  |
 1 | There's text that says "Scroll Down For More Recipes" that floats under the top menu bar. It is self explanatory that users would scroll down to find more recipes. The text is in a random place and doesn't help with usability. | Remove floating text that  says "Scroll Down For More Recipes". |
 
 ##### 9. Help users recognize, diagnose, and recover from errors
-> 
+> akfmdlaksmf;alksdfma
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+
+##### 10. Help and documentation
+> akfmdlaksmf;alksdfma
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
 
 
 
