@@ -37,6 +37,7 @@ Rating  | Arguments/comments  | Possible solutions  |
 1 | There are pictures and fonts that are on the page that user's would be unsure of whether it is something that is supposed to be clicked or if it is picture. For example, the "Subscribe Now" text is actually a button where if a user clicks it, then they can subscribe to the page. But it needs to be more visible that it's a button and not just text. | Make text that is meant to be clicked look like buttons |
 1 | The search bar has a magnifying glass next to it. However it is unclear if that is what a user is supposed to click when attempting to search a recipe. When a user's cursor hovers over the magnifying button, the cursor doesn't change into a hand which most cursors do when encountered with a button. | Make the magnifying glass into a button where if a cursor hovers over it, it will change to a hand cursor |
 2 | When clicking the categories in the index on the left side of the page, a user has to click directly on the text in the box. If you click on the light blue tint that doesn't have text on it, then the user won't be directed anywhere. | I think the whole light blue box needs to be a button where if you click on just the blue part without text, it will still take you to the recipe a user is looking for. |
+3 | There is no feedback given when a user tries to search something after their initial search in the search bar. After the initial search, if a user tries to search for a new recipe or ingredient, the user is taken to a blank page | Make sure users can search more than just their first initial search |
 
 ##### 2. Match between system and real world
 > The system should speak the users langauge with words and designs that the user is familiar with and understands.
@@ -46,14 +47,13 @@ Rating  | Arguments/comments  | Possibile solutions |
 1 | The search bar needs to be more clear that the text that's supposed to be typed there is what the user is intending on searching. The magnifying glass does not fully represent that. | I think the magnifying glass should be replaced with a Search button and there should be a default text in the box that says search a recipe. |
 3 | Below the left category index there is an orange figure that looks like a slanted wifi icon. I was unsure what it was and I clicked it and it brought me to a FeedBurner page for the website. I am still unsure what it is and why this needs to be on the page. ![icon screenshot](icon-screenshot.png) | Remove the icon from page |
 
-
-
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 3 | There is no way to go back to the recipe a user was viewing previously. The only way to go back is to click the 'home' button and then redo the steps to get to where a user was in the first place | Create a back button that traces all the steps a user went through to get somewhere so they don't have to resort to only using the home button. |
+3 | User is unable to search more than once | Allow users to search different things more than once |
 
 ##### 4. Consistency and standards
 > Maintains established meaning of visual elements. The design is consistent throughout the web/app and doesn't confuse users. 
@@ -61,7 +61,24 @@ Rating  | Arguments/comments  | Possibile solutions |
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 1 | The left categorical index has text with different font colors. This is inconsistent as there are orange, light brown, dark brown, and green colors that don't establish and meaning. ![font colors](fontcolor-screenshot.png) | Keep the font color the same throughout. |
+3 | Once a user searches for something from the home page, the magnifying box switches intoo a "Search" button. After searching once, the user is no longer able to search again when using the new button and instead shows a blank page | Keep the search button consistent throughout. Make sure user is able to search more than once |
 1 | When an image isn't available there are two options the webpage uses: either a blank picture with "No Image Available", or a blank picture with an icon on the top left. This is inconsistent ![no image available](noimage-screenshot.png)![image icon screenshot](toplefticon-screenshot.png)| Either keep the "No Image Available" for all recipes with no images or make sure to provide an image for each recipe (can be just a picture from the web as a filler image) |
+3 | Sometimes, depending on what part of the site you're on, the home title "Joy of Baking.com" is no longer used as a home button. Some times a user can click that icon and it will take them to the home page, but other times when a user clicks it, it no longer serves as a means to go to the home page | Make the icon consistent throughout where it can always be used to go home. |
+1 | The categories on the top of the site change depending on what part of the site a user is on | Make sure the top categories remain the same no matter where a user is on the site. |
+
+##### 5. Error prevention
+> Prevent people from having to redo their work and provides as a safety net. 
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+Good | If a user types in the search bar and spells something incorrectly, the search looks for words similar to what the user was trying to input | Good as is |
+
+##### 6. Recognition rather than recall
+> Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
+
+1 | The categories on the top of the site change depending on what part of the site a user is on. This makes it hard for users to be able to recognize their way to navigate the site. Having categories appear and disappear can be confusing to users and their able to recognize. | Make sure the top categories remain the same no matter where a user is on the site so that recognition can remain in tact. |
+
+
 
 
 ### Resource no. 2: Cake and Baking Recipes For You
