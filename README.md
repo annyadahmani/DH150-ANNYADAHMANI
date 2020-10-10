@@ -18,11 +18,10 @@ Scale  | Problem  | Information  |
 #### Description 
 > URL: https://www.joyofbaking.com/ 
 
-> This website is called Joy of Baking. It is a baking recipe website where you can find delicious desert ideas. 
+> This website is called Joy of Baking. It is a baking recipe website where you can find delicious desert ideas. Baker Stephanie Jaworksi created Joy of Baking in 1997 as a way to engage with other bakers who share the same love and passion for deserts as she does. Each of her recipes comes with a video that shows bakers how to make the perfect desert. The homepage has a categorical index on the left side of the page as well as on the top of the page. 
 
-basic information about the competitor
-web/app including the name, the screenshot
-of the frontpage, active URL(link)
+![joy of baking homepage](joyofbaking-screenshot.png)
+
 #### Initial overall evaluation
 > initial overall evaluation about web/app
 before heuristic evaluation
