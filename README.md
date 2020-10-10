@@ -44,9 +44,9 @@ Rating  | Arguments/comments  | Possible solutions  |
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 1 | The search bar needs to be more clear that the text that's supposed to be typed there is what the user is intending on searching. The magnifying glass does not fully represent that. | I think the magnifying glass should be replaced with a Search button and there should be a default text in the box that says search a recipe. |
-3 | Below the left category index there is an orange figure that looks like a slanted wifi icon. I was unsure what it was and I clicked it and it brought me to a FeedBurner page for the website. I am still unsure what it is and why this needs to be on the page. | Remove the icon from page |
+3 | Below the left category index there is an orange figure that looks like a slanted wifi icon. I was unsure what it was and I clicked it and it brought me to a FeedBurner page for the website. I am still unsure what it is and why this needs to be on the page. ![icon screenshot](icon-screenshot.png) | Remove the icon from page |
 
-![icon screenshot](icon-screenshot.png)
+
 
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
@@ -60,12 +60,8 @@ Rating  | Arguments/comments  | Possibile solutions |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
-1 | The left categorical index has text with different font colors. This is inconsistent as there are orange, light brown, dark brown, and green colors that don't establish and meaning. | Keep the font color the same throughout. |
-1 | When an image isn't available there are two options the webpage uses: either a blank picture with "No Image Available", or a blank picture with an icon on the top left. This is inconsistent | Either keep the "No Image Available" for all recipes with no images or make sure to provide an image for each recipe (can be just a picture from the web as a filler image) |
-
-
-
-
+1 | The left categorical index has text with different font colors. This is inconsistent as there are orange, light brown, dark brown, and green colors that don't establish and meaning. ![font colors](fontcolor-screenshot.png) | Keep the font color the same throughout. |
+1 | When an image isn't available there are two options the webpage uses: either a blank picture with "No Image Available", or a blank picture with an icon on the top left. This is inconsistent ![no image available](noimage-screenshot.png)![image icon screenshot](toplefticon-screenshot.png)| Either keep the "No Image Available" for all recipes with no images or make sure to provide an image for each recipe (can be just a picture from the web as a filler image) |
 
 
 ### Resource no. 2: Cake and Baking Recipes For You
