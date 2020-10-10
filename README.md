@@ -18,7 +18,9 @@ Scale  | Problem  | Information  |
 #### Description 
 > URL: https://www.joyofbaking.com/ 
 
-> basic information about the competitor
+> This website is called Joy of Baking. It is a baking recipe website where you can find delicious desert ideas. 
+
+basic information about the competitor
 web/app including the name, the screenshot
 of the frontpage, active URL(link)
 #### Initial overall evaluation
