@@ -26,8 +26,7 @@ Scale  | Problem  | Information  |
 > My initial overall evaluation about this webpage was how busy and chaotic it looked. There is just too much happening and it's overwhelming. I also notice random pictures and text floating on the page and a lot of white space on the right side of the page. At first glance, it seemed like there was no uniformity within the page. Another initial observation I had was the color coding of the left categorical index. The color coding seemed off where there were light brown, darkbrown, orange, and green colored fonts. I was unsure whether things were normal text or if they were meant to be clicked to take you to another page. 
 
 #### Heuristics evaluation
-> Here I will discuss all 10 heuristics with sensible
-argument/comments
+> Here I will discuss all 10 heuristics with sensible argument/comments and possible solutions that I have come up with to help address the arguments/comments.
 
 ##### 1. Visibilty of system status
 > Should give feedback within a reasonable time about what the user is doing.
