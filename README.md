@@ -26,8 +26,19 @@ Scale  | Problem  | Information  |
 > My initial overall evaluation about this webpage was how busy and chaotic it looked. There is just too much happening and it's overwhelming. I also notice random pictures and text floating on the page and a lot of white space on the right side of the page. At first glance, it seemed like there was no uniformity within the page. Another initial observation I had was the color coding of the left categorical index. The color coding seemed off where there were light brown, darkbrown, orange, and green colored fonts. I was unsure whether things were normal text or if they were meant to be clicked to take you to another page. 
 
 #### Heuristics evaluation
-> Discussed all 10 heuristics with sensible
-argument/comments for all screens
+> Here I will discuss all 10 heuristics with sensible
+argument/comments
+
+##### 1. Visibilty of system status
+> Should give feedback within a reasonable time about what the user is doing.
+
+
+Rating  | Arguments/comments  |
+:---: | :---  |
+1 | There are pictures and fonts that are on the page that user's would be unsure of whether it is something that is supposed to be clicked or if it is picture. For example, the "Subscribe Now" text is actually a button where if a user clicks it, then they can subscribe to the page. But it needs to be more visible that it's a button and not just text. |
+1 | The search bar has a magnifying glass next to it. However it is unclear if that is what a user is supposed to click when attempting to search a recipe. When a user's cursor hovers over the magnifying button, the cursor doesn't change into a hand which most cursors do when encountered with a button. |
+2 | When clicking the categories in the index on the left side of the page, a user has to click directly on the text in the box. If you click on the light blue tint that doesn't have text on it, then the user won't be directed anywhere. I think the whole light blue box needs to be a button where if you click on just the blue part without text, it will still take you to the recipe a user is looking for. |
+
 
 ### Resource no. 2: Cake and Baking Recipes For You
 #### Description 
