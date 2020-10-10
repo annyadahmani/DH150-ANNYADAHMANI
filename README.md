@@ -76,7 +76,27 @@ Good | If a user types in the search bar and spells something incorrectly, the s
 ##### 6. Recognition rather than recall
 > Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
 
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
 1 | The categories on the top of the site change depending on what part of the site a user is on. This makes it hard for users to be able to recognize their way to navigate the site. Having categories appear and disappear can be confusing to users and their able to recognize. | Make sure the top categories remain the same no matter where a user is on the site so that recognition can remain in tact. |
+
+##### 7. Flexibility and efficiency of use
+> Flexible processes can be carried out in different ways so users can choose their method of interaction.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+3 | There is no filter or sort method when a user searches for a recipe or ingredient. Instead, the page shows all possible options, which is both inefficient and unflexible | Have a sorting algorithm where users can sort either based on time it takes to complete recipe, number of ingredients, servings size, etc. |
+
+##### 8. Aesthetic and minimalist design
+> Making sure content and visual design is focused on the essentials.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+1 | There doesn't need to be a menu on the top and left of the page. Some of them are repetitive. | Delete one of the menu options |
+1 | There are four different font colors on the left menu, making it chaotic | Simplify the font color and use only one color for the text |
+3 | Some of the designs are confusing because a user can't tell if it's something that is supposed to be clicked, or it's just a text floating | Make buttons appear like buttons where it's obvious that that is something a user should click on |
+1 | There doesn't need to be a video icon on every picture of a recipe when every recipe has a video accompanied with it. It's repetitive and hinders the minamilist design. | Remove the video icon that is layered on every picture throughout the page. |
+
 
 
 
