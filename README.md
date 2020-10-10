@@ -50,12 +50,14 @@ Rating  | Arguments/comments  | Possibile solutions |
 
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
+
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 3 | There is no way to go back to the recipe a user was viewing previously. The only way to go back is to click the 'home' button and then redo the steps to get to where a user was in the first place | Create a back button that traces all the steps a user went through to get somewhere so they don't have to resort to only using the home button. |
 
 ##### 4. Consistency and standards
 > Maintains established meaning of visual elements. The design is consistent throughout the web/app and doesn't confuse users. 
+
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 1 | The left categorical index has text with different font colors. This is inconsistent as there are orange, light brown, dark brown, and green colors that don't establish and meaning. | Keep the font color the same throughout. |
