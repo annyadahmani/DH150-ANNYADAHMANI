@@ -32,12 +32,21 @@ argument/comments
 ##### 1. Visibilty of system status
 > Should give feedback within a reasonable time about what the user is doing.
 
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+1 | There are pictures and fonts that are on the page that user's would be unsure of whether it is something that is supposed to be clicked or if it is picture. For example, the "Subscribe Now" text is actually a button where if a user clicks it, then they can subscribe to the page. But it needs to be more visible that it's a button and not just text. | Make text that is meant to be clicked look like buttons |
+1 | The search bar has a magnifying glass next to it. However it is unclear if that is what a user is supposed to click when attempting to search a recipe. When a user's cursor hovers over the magnifying button, the cursor doesn't change into a hand which most cursors do when encountered with a button. | Make the magnifying glass into a button where if a cursor hovers over it, it will change to a hand cursor |
+2 | When clicking the categories in the index on the left side of the page, a user has to click directly on the text in the box. If you click on the light blue tint that doesn't have text on it, then the user won't be directed anywhere. | I think the whole light blue box needs to be a button where if you click on just the blue part without text, it will still take you to the recipe a user is looking for. |
 
-Rating  | Arguments/comments  |
-:---: | :---  |
-1 | There are pictures and fonts that are on the page that user's would be unsure of whether it is something that is supposed to be clicked or if it is picture. For example, the "Subscribe Now" text is actually a button where if a user clicks it, then they can subscribe to the page. But it needs to be more visible that it's a button and not just text. |
-1 | The search bar has a magnifying glass next to it. However it is unclear if that is what a user is supposed to click when attempting to search a recipe. When a user's cursor hovers over the magnifying button, the cursor doesn't change into a hand which most cursors do when encountered with a button. |
-2 | When clicking the categories in the index on the left side of the page, a user has to click directly on the text in the box. If you click on the light blue tint that doesn't have text on it, then the user won't be directed anywhere. I think the whole light blue box needs to be a button where if you click on just the blue part without text, it will still take you to the recipe a user is looking for. |
+##### 2. Match between system and real world
+> The system should speak the users langauge with words and designs that the user is familiar with and understands.
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+1 | The search bar needs to be more clear that the text that's supposed to be typed there is what the user is intending on searching. The magnifying glass does not fully represent that. | I think the magnifying glass should be replaced with a Search button and there should be a default text in the box that says search a recipe. |
+3 | Below the left category index there is an orange figure that looks like a slanted wifi icon. I was unsure what it was and I clicked it and it brought me to a FeedBurner page for the website. I am still unsure what it is and why this needs to be on the page. | Remove the icon from page |
+
+
 
 
 ### Resource no. 2: Cake and Baking Recipes For You
