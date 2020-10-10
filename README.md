@@ -65,6 +65,7 @@ Rating  | Arguments/comments  | Possibile solutions |
 1 | When an image isn't available there are two options the webpage uses: either a blank picture with "No Image Available", or a blank picture with an icon on the top left. This is inconsistent ![no image available](noimage-screenshot.png)![image icon screenshot](toplefticon-screenshot.png)| Either keep the "No Image Available" for all recipes with no images or make sure to provide an image for each recipe (can be just a picture from the web as a filler image) |
 3 | Sometimes, depending on what part of the site you're on, the home title "Joy of Baking.com" is no longer used as a home button. Some times a user can click that icon and it will take them to the home page, but other times when a user clicks it, it no longer serves as a means to go to the home page | Make the icon consistent throughout where it can always be used to go home. |
 1 | The categories on the top of the site change depending on what part of the site a user is on | Make sure the top categories remain the same no matter where a user is on the site. |
+1 | Sometimes when users click one of the options in the left menu bar, the font will all change to light brown and the categories will change places and some will go away and some new ones would be added. | Make sure the left menu categories remain the same no matter where a user is on the site and the color remains the same. |
 
 ##### 5. Error prevention
 > Prevent people from having to redo their work and provides as a safety net. 
@@ -95,7 +96,15 @@ Rating  | Arguments/comments  | Possible solutions  |
 1 | There doesn't need to be a menu on the top and left of the page. Some of them are repetitive. | Delete one of the menu options |
 1 | There are four different font colors on the left menu, making it chaotic | Simplify the font color and use only one color for the text |
 3 | Some of the designs are confusing because a user can't tell if it's something that is supposed to be clicked, or it's just a text floating | Make buttons appear like buttons where it's obvious that that is something a user should click on |
-1 | There doesn't need to be a video icon on every picture of a recipe when every recipe has a video accompanied with it. It's repetitive and hinders the minamilist design. | Remove the video icon that is layered on every picture throughout the page. |
+1 | There doesn't need to be a video icon on every picture of a recipe when every recipe has a video accompanied with it. It's repetitive and hinders the minamilist design. ![video on picture screenshot](video-screenshot.png)| Remove the video icon that is layered on every picture throughout the page. |
+1 | After every description under a photo, there is a blue hyperlinked "more" text. This is unecessary when it appears in every description. Users know that they can simply click the title and it will take them tothe information about the recipe. The blue color hinders the minamilist design. | Remove the blue "more" hyperlink. |
+1 | There's text that says "Scroll Down For More Recipes" that floats under the top menu bar. It is self explanatory that users would scroll down to find more recipes. The text is in a random place and doesn't help with usability. | Remove floating text that  says "Scroll Down For More Recipes". |
+
+##### 9. Help users recognize, diagnose, and recover from errors
+> 
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
 
 
 
