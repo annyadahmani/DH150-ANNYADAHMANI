@@ -140,12 +140,15 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
+1 | The categories icon doesn't look correct to me. The icon that is currently used as a categories icon looks more like a layers icon than a categories icon. | Change the categories icon to something that users would understand as being a category. Maybe it could be as simple as it removing all the icons and having it say "categories" |
 
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
+2 | When using the hamburger menu on the left side, there is no way a user would know how to exit from the menu. There is no back feature. Users have to tap back onto the main page in order to escape the main menu. If a user didn't know or guess this, then they would be stuck in the main menu page. | Add a back feature from the main menu hamburger back to where the user was previously. |
+3 | If a user tries to share a recipe with someone in their contacts, the screen freezes and the user is unable to exit to go back to the page they were on or to escape sending the recipe to someone. Users are then forced to quit the application to get it to work again. | Make the app more responsive in terms of when the user no longer wants to share a recipe with someone in their contacts. Have a back or an exit button that is responsive. |
 
 ##### 4. Consistency and standards
 > Maintains established meaning of visual elements. The design is consistent throughout the web/app and doesn't confuse users. 
