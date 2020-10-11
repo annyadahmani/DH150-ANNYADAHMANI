@@ -116,20 +116,72 @@ Rating  | Arguments/comments  | Possible solutions  |
 1 | The Contact Us should be in one of the menu categories of one of the options users see right away to click. Instead the Contact Us text is at the very bottom of the page, where users could easily miss seeing it. | Don't put the Contact Us information at the bottom of the page. Move it to either the left or top menu bar. |
 3 | No FAQ on the website | Add a FAQ page |
 
-
-
-
-
-
 ### Resource no. 2: Cake and Baking Recipes For You
 #### Description 
-> basic information about the competitor
-web/app including the name, the screenshot
-of the frontpage, active URL(link)
-#### Initial overall evaluation
-> initial overall evaluation about web/app
-before heuristic evaluation
-#### Heuristics evaluation
-> Discussed all 10 heuristics with sensible
-argument/comments for all screens
+> This app is called Cake and Baking For You. The app offers a wide range of baking recipes, from cake recipes  to pie recipes to cookie recipes and much more. Users are presented with instructions and photos of the baked goods and are also given the option to choose the recipes they like the most and keep them in their favorites. There is also a shopping list function that you can use when you go grocery shopping. Users can go further and post their own recipes as well as leaving feedback on other's. 
 
+#### Initial overall evaluation
+> My initial evaluation when I first opened the app was that it doesn't seem to fit my iPhone screen properly. The dimensions look as though it was for a smaller sized device. I had to make an account to get all the features of the app as well. I noticed that it was difficult to navigate around the app and ads would pop up quite often when trying to navigate around the app. I observed that there wasn't as many recipes as I thought a baking app would have, especially from seeing all the different recipes from the previous resource that I looked at.
+
+#### Heuristics evaluation
+> Here I will discuss all 10 heuristics with sensible argument/comments and possible solutions that I have come up with to help address the arguments/comments.
+
+##### 1. Visibilty of system status
+> Should give feedback within a reasonable time about what the user is doing.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
+##### 2. Match between system and real world
+> The system should speak the users langauge with words and designs that the user is familiar with and understands.
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+
+##### 3. User control and freedom
+> Users need a clearly marked emergency exit to leave that state.
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+
+##### 4. Consistency and standards
+> Maintains established meaning of visual elements. The design is consistent throughout the web/app and doesn't confuse users. 
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+
+##### 5. Error prevention
+> Prevent people from having to redo their work and provides as a safety net. 
+
+Rating  | Arguments/comments  | Possibile solutions |
+:---: | :---  | :---  |
+
+##### 6. Recognition rather than recall
+> Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
+##### 7. Flexibility and efficiency of use
+> Flexible processes can be carried out in different ways so users can choose their method of interaction.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
+##### 8. Aesthetic and minimalist design
+> Making sure content and visual design is focused on the essentials.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
+##### 9. Help users recognize, diagnose, and recover from errors
+> Clearly informs users when an error has occured and how to fix it.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
+
+##### 10. Help and documentation
+> Makes it easy for users to search for help and lists concrete steps to be carried out.
+
+Rating  | Arguments/comments  | Possible solutions  |
+:---: | :---  | :---  |
