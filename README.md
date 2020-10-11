@@ -155,13 +155,15 @@ Rating  | Arguments/comments  | Possibile solutions |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
-1 | The backgrounds for different categories are not consistent. Some backgrounds have solid color background while others have images in the background. | Make the background consistent throughout the app, preferably solid color so it's not too busy. |
+1 | The backgrounds for different menu options are not consistent. Some backgrounds have solid color background while others have images in the background. ![category background](inconsistent-background-2.jpg) ![shopping list background](inconsistent-background-1.jpg)| Make the background consistent throughout the app, preferably solid color so it's not too busy. |
 
 ##### 5. Error prevention
 > Prevent people from having to redo their work and provides as a safety net. 
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
+2 | When sending a review in, there is no option to confirm that the user is okay with their review being posted. The user could have accidentally clicked the send button without meaning to. ![confirmation](confirmation-screenshot.PNG)| Have a confirmation after pressing send that says "Are you sure you want to post" and then have options that say either "Confirm or Cancel." |
+2 | There is no message that appears if you send a review and forget to put a title or comment. The user may have accidentally submitted the review and forgot to put a title and comment. ![forgetting text confirm](forgot-text.PNG)| Add a confirmation message that user is forgot to put a title and comment. |
 
 ##### 6. Recognition rather than recall
 > Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
