@@ -164,18 +164,21 @@ Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 2 | When sending a review in, there is no option to confirm that the user is okay with their review being posted. The user could have accidentally clicked the send button without meaning to. ![confirmation](confirmation-screenshot.PNG)| Have a confirmation after pressing send that says "Are you sure you want to post" and then have options that say either "Confirm or Cancel." |
 2 | There is no message that appears if you send a review and forget to put a title or comment. The user may have accidentally submitted the review and forgot to put a title and comment. ![forgetting text confirm](forgot-text.PNG)| Add a confirmation message that user is forgot to put a title and comment. |
+2 | If a user clicks the sign out button in the hamburger menu, the user is automatically signed out. Most apps will ask users if they are sure they want to sign out. | Have a confirmation that makes users confirm if they want to sign out of their account.|
 
 ##### 6. Recognition rather than recall
 > Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+1 | In the Shopping list feature, users are able to add ingredients from recipes that they want to buy in the future. When the ingredients are added to the list, the list shows just a bullet point of ingredients that a user is intending on buying. However it doesn't have the recipe associated with what the ingredient is intended for. This makes users have to recall the recipe associated with the ingredient. | Next to the ingredient, there should also be a section indicating what recipe that ingredient is intended to be used for. |
 
 ##### 7. Flexibility and efficiency of use
 > Flexible processes can be carried out in different ways so users can choose their method of interaction.
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+1 | There is no filter algorithm in the search feature. If a user is vegan or allergic to something, there is no way they can sort or account for recipes that don't have certain ingredients. | Add a filter to the search and recipes features where a user can check off certain things that they can't eat or are not looking for in a recipe. |
 
 ##### 8. Aesthetic and minimalist design
 > Making sure content and visual design is focused on the essentials.
