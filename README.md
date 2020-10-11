@@ -120,6 +120,7 @@ Rating  | Arguments/comments  | Possible solutions  |
 #### Description 
 > This app is called Cake and Baking For You. The app offers a wide range of baking recipes, from cake recipes  to pie recipes to cookie recipes and much more. Users are presented with instructions and photos of the baked goods and are also given the option to choose the recipes they like the most and keep them in their favorites. There is also a shopping list function that you can use when you go grocery shopping. Users can go further and post their own recipes as well as leaving feedback on other's. 
 
+![app homepage](apphome-screenshot.PNG)
 
 #### Initial overall evaluation
 > My initial evaluation when I first opened the app was that it doesn't seem to fit my iPhone screen properly. The dimensions look as though it was for a smaller sized device. I had to make an account to get all the features of the app as well. I noticed that it was difficult to navigate around the app and ads would pop up quite often when trying to navigate around the app. I observed that there wasn't as many recipes as I thought a baking app would have, especially from seeing all the different recipes from the previous resource that I looked at.
@@ -132,6 +133,8 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+
+2 | When a user searches an ingredient or a recipe in the search bar, there is no notification of whether the search has been completed or not. Users would be unsure when to stop typing when they finished typing what they were searching for. | Don't have the search feature be automatic with typing. Users should type, and then when they are finished with their search, have the search notify them  they're search is completed, and bring them to a search results page. |
 
 ##### 2. Match between system and real world
 > The system should speak the users langauge with words and designs that the user is familiar with and understands.
