@@ -194,6 +194,8 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+2 | If a user types something incorrectly into the search bar, the app doesn't show suggestions of "Did you mean..." Instead it just shows a blank search page. ![search suggestions error](suggestion-search.PNG)| Have the search have a feature that says "Did you mean (insert correct word)" with the most correct word similar to what the user searched.
+3 | When a user tries to submit a recipe and forgets to include all the information, the app responds with a confusing error and with no explanation on how to fix it. ![confusing error](error-no-explanation.PNG)| Explain the error better and in a way a user would understand and how to fix the error. For example: Please fill out everything in the recipe in order to submit.|
 
 ##### 10. Help and documentation
 > Makes it easy for users to search for help and lists concrete steps to be carried out.
