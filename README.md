@@ -71,7 +71,8 @@ Rating  | Arguments/comments  | Possibile solutions |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
-Good | If a user types in the search bar and spells something incorrectly, the search looks for words similar to what the user was trying to input | Good as is |
+Good | If a user types in the search bar and spells something incorrectly, the search looks for words similar to what the user was trying to input ![bananas spelled wrong screenshot](wrongspelling-screenshot.png)| Good as is |
+3 | After using the search bar after the initial time, users have to redo their work as the search bar function doesn't work after the first time. Users have to go back to the home page and restart the whole search process instead of being able to search straight from the results page. | Allow users to search on the search page or after the initial search without an error occuring. |
 
 ##### 6. Recognition rather than recall
 > Provide suggestions to send signals to information from our memory. Allows users to receive cues that give context in actions.
@@ -111,6 +112,9 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+1 | The Contact Us button doesn't look like a button. It looks like it's text floating on the page. | Make the Contact Us button look like a button. |
+1 | The Contact Us should be in one of the menu categories of one of the options users see right away to click. Instead the Contact Us text is at the very bottom of the page, where users could easily miss seeing it. | Don't put the Contact Us information at the bottom of the page. Move it to either the left or top menu bar. |
+3 | No FAQ on the website | Add a FAQ page |
 
 
 
