@@ -185,6 +185,9 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+1 | The background throughout the app is chaotic (nott minamalist) and makes it hard to focus on the content a user actually wants to see. Sometimes it takes a lot of effort to see the pictures and text of what a user wants to look at when the background is too busy. ![favorite feature background](favorite-background.jpeg) | Keep  the background simple and make the background a solid color. |
+1 | There are too many ads that appear on the app at random times. The ads take away from the content users want to be interacting and looking at. | Remove ads from the app. |
+1 | The review section is confusing because of it's design. Users would be unsure what's the overall star rating and what is their individual star rating on a review. There's too many stars in the design. ![stars design](review-stars.PNG) | Label what is the user's personal review and the overrall app's review on a recipe. Limit the number of stars. |
 
 ##### 9. Help users recognize, diagnose, and recover from errors
 > Clearly informs users when an error has occured and how to fix it.
