@@ -200,3 +200,4 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
+3 | There is no help, contact, or FAQ section anywhere on the app. If a user was confused on something, then they would have no way to address their questions. | Add a help center, contact, and/or FAQ section. |
