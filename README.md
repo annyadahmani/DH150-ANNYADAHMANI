@@ -133,7 +133,6 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
-
 2 | When a user searches an ingredient or a recipe in the search bar, there is no notification of whether the search has been completed or not. Users would be unsure when to stop typing when they finished typing what they were searching for. | Don't have the search feature be automatic with typing. Users should type, and then when they are finished with their search, have the search notify them  they're search is completed, and bring them to a search results page. |
 
 ##### 2. Match between system and real world
