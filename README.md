@@ -60,7 +60,7 @@ Rating  | Arguments/comments  | Possibile solutions |
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 1 | The left categorical index has text with different font colors. This is inconsistent as there are orange, light brown, dark brown, and green colors that don't establish and meaning. ![font colors](fontcolor-screenshot.png) | Keep the font color the same throughout. |
-3 | Once a user searches for something from the home page, the magnifying box switches intoo a "Search" button. After searching once, the user is no longer able to search again when using the new button and instead shows a blank page | Keep the search button consistent throughout. Make sure user is able to search more than once |
+3 | Once a user searches for something from the home page, the magnifying box switches into a "Search" button. After searching once, the user is no longer able to search again when using the new button and instead shows a blank page | Keep the search button consistent throughout. Make sure user is able to search more than once |
 1 | When an image isn't available there are two options the webpage uses: either a blank picture with "No Image Available", or a blank picture with an icon on the top left. This is inconsistent ![no image available](noimage-screenshot.png)![image icon screenshot](toplefticon-screenshot.png)| Either keep the "No Image Available" for all recipes with no images or make sure to provide an image for each recipe (can be just a picture from the web as a filler image) |
 3 | Sometimes, depending on what part of the site you're on, the home title "Joy of Baking.com" is no longer used as a home button. Some times a user can click that icon and it will take them to the home page, but other times when a user clicks it, it no longer serves as a means to go to the home page | Make the icon consistent throughout where it can always be used to go home. |
 1 | The categories on the top of the site change depending on what part of the site a user is on | Make sure the top categories remain the same no matter where a user is on the site. |
@@ -155,6 +155,7 @@ Rating  | Arguments/comments  | Possibile solutions |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
+1 | The backgrounds for different categories are not consistent. Some backgrounds have solid color background while others have images in the background. | Make the background consistent throughout the app, preferably solid color so it's not too busy. |
 
 ##### 5. Error prevention
 > Prevent people from having to redo their work and provides as a safety net. 
