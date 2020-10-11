@@ -140,7 +140,7 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
-1 | The categories icon doesn't look correct to me. The icon that is currently used as a categories icon looks more like a layers icon than a categories icon. | Change the categories icon to something that users would understand as being a category. Maybe it could be as simple as it removing all the icons and having it say "categories" |
+1 | The categories icon doesn't look correct to me. The icon that is currently used as a categories icon looks more like a layers icon than a categories icon. ![category icon](badicons-screenshot.jpg) | Change the categories icon to something that users would understand as being a category. Maybe it could be as simple as it removing all the icons and having it say "categories" |
 
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
