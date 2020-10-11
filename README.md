@@ -104,7 +104,7 @@ Rating  | Arguments/comments  | Possible solutions  |
 
 Rating  | Arguments/comments  | Possible solutions  |
 :---: | :---  | :---  |
-3 | When a user searches something for the second time, the search result is blank. This error has no way of fixing and it doesn't allow users to recognize, diagnose, and recover from this error. | Allow users to search more than once. |
+3 | When a user searches something for the second time, the search result is blank. This error has no way of fixing and it doesn't allow users to recognize, diagnose, and recover from this error. ![error with search](nosearch-screenshot.png) | Allow users to search more than once. |
 
 ##### 10. Help and documentation
 > Makes it easy for users to search for help and lists concrete steps to be carried out.
