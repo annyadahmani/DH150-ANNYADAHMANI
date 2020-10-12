@@ -141,6 +141,7 @@ Rating  | Arguments/comments  | Possible solutions  |
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 1 | The categories icon doesn't look correct to me. The icon that is currently used as a categories icon looks more like a layers icon than a categories icon. ![category icon](badicons-screenshot.jpg) | Change the categories icon to something that users would understand as being a category. Maybe it could be as simple as it removing all the icons and having it say "categories" |
+1 | In most applications, I feel as though users are used to that if you are active on a certain tab of the page, that icon would be the brightest, and the icons that you aren't on would be dimmer. However, this is the opposite of how to menu works for this app. If you are on a specific section (either home, categories, favorites, shopping list), the  section you are on appears to be dim, and the other sections are brighter. This is confusing because as users, we aren't familiar with this kind of design. | Make the design opposite for when a user clicks on a menu section at the bottom of the app: if a user is on a section, that should be brighter than the non-clicked sections. |
 
 ##### 3. User control and freedom
 > Users need a clearly marked emergency exit to leave that state.
