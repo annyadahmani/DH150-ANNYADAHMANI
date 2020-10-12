@@ -164,7 +164,7 @@ Rating  | Arguments/comments  | Possibile solutions |
 Rating  | Arguments/comments  | Possibile solutions |
 :---: | :---  | :---  |
 2 | When sending a review in, there is no option to confirm that the user is okay with their review being posted. The user could have accidentally clicked the send button without meaning to. ![confirmation](confirmation-screenshot.PNG)| Have a confirmation after pressing send that says "Are you sure you want to post" and then have options that say either "Confirm or Cancel." |
-2 | There is no message that appears if you send a review and forget to put a title or comment. The user may have accidentally submitted the review and forgot to put a title and comment. ![forgetting text confirm](forgot-text.PNG)| Add a confirmation message that user is forgot to put a title and comment. |
+2 | There is no message that appears if you send a review and forget to put a title or comment. The user may have accidentally submitted the review and forgot to put a title and comment. ![forgetting text confirm](forgot-text.PNG)| Add a confirmation message that user forgot to put a title and comment and ask if they are okay with that or not (confirm or cancel). |
 2 | If a user clicks the sign out button in the hamburger menu, the user is automatically signed out. Most apps will ask users if they are sure they want to sign out. | Have a confirmation that makes users confirm if they want to sign out of their account.|
 
 ##### 6. Recognition rather than recall
