@@ -7,7 +7,9 @@
 ## Methodology
 
 ## Links
-Pilot UT Survey 
-Pilot UT Video 
+<ul>
+  <li> Pilot UT Survey </li>
+  <li> Pilot UT Video </li>
+  </ul>
 
 ## Reflection
