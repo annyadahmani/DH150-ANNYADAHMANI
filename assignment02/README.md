@@ -15,7 +15,7 @@ The design of this Pilot UT included: orientation script, informed consent form,
 ## Links
 <ul>
   <li> <a href="https://forms.gle/Bk5PBGuqmwMrTKWz7"> Pilot UT Survey </a>  </li>
-  <li> Pilot UT Video </li>
+  <li> <a href="https://drive.google.com/file/d/1Rp4dGfE5uLNDSt6VTBK3f7YXsvxdgA5J/view?usp=sharing"> Pilot UT Video </a> </li>
   </ul>
 
 ## Reflection
