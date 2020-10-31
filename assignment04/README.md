@@ -22,4 +22,12 @@
 
 The research method I decided to use was participatory observation. I had my interviewee do activities to give insight on her interest of baking recipes and reactions to baking websites and recipes. The interview was done in the kitchen, which is important because that is where baking is ultimately done. An iPhone was used to record the interview and the iPhone's screen recorrding was used to record the users tasks. This participant is a mid-aged woman, which fits the demographics of my project well.
 
+##Step04: Interview guide
+
+The script to my interview can be accessed here.
+The recording of my interview can be accessed here.
+The transcription of my interview can be accessed here.
+The notes and observations I took can be accessed here.
+The screen recording of participants tasks can be accessed here.
+
 
