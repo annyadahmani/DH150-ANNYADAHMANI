@@ -1,4 +1,4 @@
-# DH150 Assignment 4: Contextual Inquiry by Annya Dahmani
+# DH150 Assignment 4: User in context by Annya Dahmani
 
 ## Step 1: Specify the main design challenge 
 
