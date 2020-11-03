@@ -36,9 +36,9 @@ The research method I decided to use was participatory observation. I had my int
 
 ## Step 4 and 5: Interview guide and conducting the research
 
-The script to my interview can be accessed here.
+The script to my interview can be accessed <a href="https://docs.google.com/document/d/14nelk5IG_N8bFOPFEXujmwt5eAx64o8CiMdrwMmW1CQ/edit?usp=sharing">here</a>.
 
-The recording of my interview can be accessed here.
+The recording of my interview can be accessed <a href="https://drive.google.com/file/d/18zgEP4FeNuBs-co4fCaJc8F-pibT9dBL/view?usp=sharing">here</a>.
 
 The transcription of my interview can be accessed here.
 
