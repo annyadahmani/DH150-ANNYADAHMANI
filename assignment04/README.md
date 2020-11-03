@@ -40,9 +40,7 @@ The script to my interview can be accessed <a href="https://docs.google.com/docu
 
 The recording of my interview can be accessed <a href="https://drive.google.com/file/d/18zgEP4FeNuBs-co4fCaJc8F-pibT9dBL/view?usp=sharing">here</a>.
 
-The transcription of my interview can be accessed here.
-
-The notes and observations I took can be accessed here.
+The transcription of my interview can be accessed <a href="https://otter.ai/s/ZHYEPMuBTWGxlxKtxceJAg">here</a>.
 
 The screen recording of participants tasks can be accessed here.
 
