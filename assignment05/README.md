@@ -5,5 +5,5 @@ The purpose of UX storytelling is to communicate for the users, not for yourself
 
 ## Features of design:
 1. <b>Filter method:</b> This is a key feature as different people are looking for different things. This feature makes things more personalized to the user
-2. <b> Other similar items:</b> This is a key feature because this allows users to see similar recipes to that they are currently looking at
+2. <b> History of recipe:</b> This is a key feature because this allows users to understand the history of how the recipe was created and provides background context and information that user's can read about.
 3. <b>Reviews section:</b> This is a key feature because it gives users insight into whether what they are looking at is popular or not as well as giving insight into what other people think of the recipe
