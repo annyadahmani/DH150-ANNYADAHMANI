@@ -9,3 +9,10 @@ The purpose of UX storytelling is to communicate for the users, not for yourself
 3. <b>Reviews section:</b> This is a key feature because it gives users insight into whether what they are looking at is popular or not as well as giving insight into what other people think of the recipe
 
 ## Rachel Smith
+![Rachel Smith personna](personna1.png)
+
+![Rachel Smith empathy map](empathymap1.png)
+
+![Rachel Smith scenario](scenario1.png)
+
+![Rachel Smith journey map](journeymap1.png)
