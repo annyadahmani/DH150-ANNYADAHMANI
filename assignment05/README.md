@@ -16,3 +16,12 @@ The purpose of UX storytelling is to communicate for the users, not for yourself
 ![Rachel Smith scenario](scenario1.png)
 
 ![Rachel Smith journey map](journeymap1.png)
+
+## Sofia Garcia
+![Sofia Garcia personna](personna2.png)
+
+![Sofia Garcia empathy map](empathymap2.png)
+
+![Sofia Garcia scenario](scenario2.png)
+
+![Sofia Garcia journey map](journeymap2.png)
