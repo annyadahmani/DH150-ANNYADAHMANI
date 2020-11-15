@@ -1,4 +1,4 @@
-# DH150 Assignment 5: Low Fidelity Prototype by Annya Dahmani
+# DH150 Assignment 6: Low Fidelity Prototype by Annya Dahmani
 
 ## Project Description
 
