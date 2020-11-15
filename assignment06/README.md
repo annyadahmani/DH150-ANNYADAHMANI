@@ -15,11 +15,13 @@ The user personnas I created for this project can be accessed <a href="https://g
 
 ## Testing the wireflow
 The testing of the wireflow can be accessed here.
-Tasks
+
+<b>Tasks</b>
+
 1. Filter: Use a filter to find the recipe a user is looking for.
 2. History: Find the history behind a recipe a user is looking for.
 3. Reviews: Locate the reviews section and allow user to write their own review.
 4. Sharing: Easily share recipe.
 
 ## Reflection
-This low fidelity prototype gave me a lot of insight into the flow and functionality of my prototype. This allowed me to be able to see what I have been thinking inside of my head but have it actually written down. It inspired me into coming up with new ideas that I hadn't thought of before that would make a baking resource even better for users.
+This low fidelity prototype gave me a lot of insight into the flow and functionality of my prototype. This allowed me to be able to see what I have been thinking inside of my head but have it actually written down. It also inspired me into coming up with new ideas that I hadn't thought of before that would make a baking resource even better for users. An example of this was I thought maybe incorporating social media could be a unique, fun, and interesting feature to add to a baking app. The process went overall pretty smoothly, especially figuring out how to visualize my features that I wanted to look at. Something that went differently from my expectation was the flow of my wireframe in some areas. I think I could have done a better job with the arrows and connectors with only having one connector for each frame because it could get confusing knowing which arrow is associated with what aspect of the frame. Something I would change or design differently based on the feedback I got from the prototype testing is making the headings of the recipe page look more like buttons where they can be clicked than just text. The user seemed confused on if and what was supposed to be clicked to continue the flow. Another thing I would change based on the feedback was having a frame that confirms the user's review was posted and shows that the review was posted. I could have also done a better job with making the filter options more clear that each block was a different choice and clicking one of the blocks is equivalent to choosing a specific filter.
