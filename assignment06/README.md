@@ -22,7 +22,9 @@ The user personnas I created for this project can be accessed <a href="https://g
 ## Testing the wireflow
 ![Low fidelity prototype testing](testprototype.png)
 
-The user succesfully completed all the tasks.
+* Note: Check signs indicate end of task.
+
+* Note: The user succesfully completed all the tasks.
 
 <b>Tasks</b>
 
