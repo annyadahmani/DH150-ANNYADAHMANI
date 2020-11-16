@@ -9,11 +9,11 @@ The pruprose of low fidelity prototyping is to give insight into how a user will
 The user personnas I created for this project can be accessed <a href="https://github.com/annyadahmani/DH150-ANNYADAHMANI/tree/main/assignment05">here</a>. Overall, my low fidelity prototype is targeted for users who are interested in baking. This can include any demographic, however, this project is specificially looking at middle-aged women's happiness, so I will be centering the demographics around this. Users should want to learn how to bake recipes, interact with other users on the resource, read and leave reviews, read the history of recipes, share recipes, and use the resource as a social media resource.
 
 ### Features
-1. <b> Filter: </b>
-2. <b> History: </b>
-3. <b> Reviews: </b>
-4. <b> Share Recipe: </b>
-5. <b> Social Media </b>
+1. <b> Filter: </b> The filter feature allows user's to personalize what their search results will be. The filter feature should include vegeterian options, vegan options, dietary restrictions, etc.
+2. <b> History: </b> The history includes the who, what, when, why, where, and how aspects behind the recipe. It gives users more context and background into the thing they are baking.
+3. <b> Reviews: </b> The reviews feature allows users to see reviews that other people have left on the recipe as well as giving users the opportunity for them to leave their thoughts and opinions on the recipe.
+4. <b> Share Recipe: </b> The share recipe feature allows for easy transportation when a user wants to send their recipe to someone else. Sharing the recipe can be done through the app itself, email, text, copy the link, or post on other social medias. This way it makes it easier than users having to type out the recipe themselves as well as not having to screenshot everything to send.
+5. <b> Social Media: </b> The social media feature is something I came up with during this prototyping where the baking app has an extension where users can use it as a social media to connect with other people, like and share recipes, post their own recipes, and leave comments. I think this would be a fun way for people to engage with others when it comes to baking.
 6. <b> Sort: </b> Similar to the filter feature, the sort by feature arranges the search results that a user inputs based on a specific sorting algorithm. This feature can be sorted by most popular, highest to lowest reviews, lowest tot highest reviews, and bake time. This gives users the options of finding a popular recipe or looking for the shortes baking time recipe because they don't have a lot of time to bake.
 
 ## Wireframes + Wireflow
