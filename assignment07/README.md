@@ -19,15 +19,24 @@ My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b1
 
 
 ### Filter
+![filter screen](filter.png)
+<br> Description: I decided to make the filter feature designed with check boxes based off my low fidelity prototype. In the low fidelity prototype I originally had the filter feature designed as blocks where a user would click the box they wanted filtered. However, this design was confusing to the user in the low fidelity impression test, and I decided a check box filter feature would be more straightforward and minimalistic. I used a button that looks like a funnel filter as the feature function because I thought users would understand this meant to filter.
 
 ### Sort
+![sort screen](sort.png)
+<br> Description: Similar to the filter feature, I decided to make the sort feature designed with check boxes based off my low fidelity prototype. In the low fidelity prototype I originally had the sort feature designed as blocks where a user would click the box they wanted sorted. However, this design was confusing to the user in the low fidelity impression test, and I decided a check box sort by feature would be more straightforward and minimalistic. I used the sort button, illustrated by one arrow pointing up and down, because this seemed like something a user would understand as referencing sort by function.
 
 ### Social feed
+![social feed screen](socialfeed.png)
+<br> Description: For the social feed, I was going for a simple design where there wasn't too much going on. In this design I had a user, a  user's relationship to that user, title of recipe, caption, a picture of the recipe, number of views,  repost, share, like, dislike, and comments. I think these are important features to have on a social media feed. I also had a button that has a go to recipe, so user's can easily go from social media post to the recipe that the user posted.
 
 ### Make a post
+![make a post screen](makepost.png)
+<br> Description: The make a post screen is supposed to be simple and straightforward where a user simply inserts the things that are asked. The user then has the option of posting to either the explore page or to their social media page. Once the sections are filled, the app will design the layout itself, so all the user has to worry about is providing the content.
 
 ### Write a review
-
+![write a review screen](review.png)
+<br> Description: The write a review  screen is supposed to be minimalistic and easy to navigate and know what to do. All users have to do is provide their written review and a star rating. Then the user can post the review. I added a photo of the recipe and the overall reviews as well as who created the recipe so that users can reference this when writing their review and they don't have to recall a lot of information since it is there for them to recognize.
 
 ## Impression test
 The link to a screen recording of the impression test can be accessed <a href="https://drive.google.com/file/d/1R4g8hMkNexPE03ncxGYpZ3XKR3Hg3S99/view?usp=sharing">here</a>.
