@@ -15,6 +15,8 @@ My high fidelity prototype can be accessed here. The purpose of this prototype i
 * <b>Sort:</b> The sort by feature allows users to sort the recipes they are looking at in a certain way, which allows users the power to see what recipes they see first and last in a list.
 
 ## Graphic design
+![all the frames](frames.png)
+
 
 ### Screen 1
 
@@ -27,3 +29,12 @@ My high fidelity prototype can be accessed here. The purpose of this prototype i
 ### Summary of findings
 
 ## Accessibility check
+
+![home screen 1](home 1.png)
+![home screen 1 color check](home1check.png)
+
+![home screen 2](home2.png)
+![home screen 2 color check](home2check.png)
+
+![home screen 3](home3.png)
+![home screen 3 color check](home3check.png)
