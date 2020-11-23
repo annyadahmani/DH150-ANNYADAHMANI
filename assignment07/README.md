@@ -6,7 +6,7 @@
 My project is surrounded on the happiness of a mid-aged woman. Specifically, I am focusing on baking. I decide to create an app called Baking + Happiness that does just this. This app allows users to search and explore new recipes that they would later bake. Users are able to leave reviews on recipes and give their comments and a star rating based on their thoughts on a recipe. Another important aspect of the app is the social media aspect. While users can use the app for solely the purpose of searching baking recipes and baking them, users also have the option of creating a social media feed integrated into the app. On this social media page, users are able to post their own recipes as well as interacting with their friends and users they follow. Users are able to see recipes that their friends and users the follow create and leave comments, like, dislike, and share the recipes. This social media aspect integrated into the app makes it easier to have one place where users search recipes and share their creations, rather than searching a recipe on a solely baking recipe app, then posting the results on a different app solely for social media.
 
 ### Purpose of this prototype
-My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b16a7180-907e-4c6d-455d-db2ed646b141-c75b/">here</a>. The purpose of this prototype is to see 
+My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b16a7180-907e-4c6d-455d-db2ed646b141-c75b/">here</a>. The purpose of this prototype is to see JANSKJFNALKSDJFNALKDJNFLKAJSDN
 
 ### Tasks
 * <b>Filter:</b> The filter feature allows for users to personalize their searches by filtering for things they are looking for in a recipe and filter out things they do not want in a recipe.
@@ -30,8 +30,17 @@ My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b1
 
 
 ## Impression test
+The link to a screen recording of the impression test can be accessed <a href="https://drive.google.com/file/d/1R4g8hMkNexPE03ncxGYpZ3XKR3Hg3S99/view?usp=sharing">here</a>.
 
 ### Summary of findings
+* Filter task: the user completed the task, but had some difficulty knowing which was the correct box to tick off to see the filter results
+* Sort task: the user completed the task, but could have navigated the task easier. The user could have simply clicked the sort button immediately, but instead went all the way back to search results and then clicked sort. In this part the user acknowledged she was confused on how to get to the sort feature.
+* Finding a recipe: user said she wishes there was a better way of getting straight to the recipe from the sort feature instead of having to go back.
+* Seeing reviews: user said it was very easy to find the reviews.
+* Make a review task: user said it was very easy to add a review. Was confused why she couldn't add her own star rating.
+* User said maybe instead of "Explore" at the bottom it should say "Search."
+* Social feed task: user said it was easy to see get to the social media feed. User commented saying the captions were hard to read the yellow font on the red background. User said to make the go to recipe button look more like a button and different from the title of the recipe.
+* Post a recipe: user said it was easy to post a recipe. Commented again on the yellow task over red background for the captions.
 
 ## Accessibility check
 
