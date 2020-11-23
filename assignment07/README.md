@@ -30,11 +30,20 @@ My high fidelity prototype can be accessed here. The purpose of this prototype i
 
 ## Accessibility check
 
+### Color 1
 ![home screen 1](home1.png)
+### Color Contrast Check
 ![home screen 1 color check](home1check.png)
 
+### Color 2
 ![home screen 2](home2.png)
+### Color Contrast Check
 ![home screen 2 color check](home2check.png)
 
+### Color 3
 ![home screen 3](home3.png)
+### Color Contrast Check
 ![home screen 3 color check](home3check.png)
+
+### Summary
+Starting off with the design, I knew I did not wanta simple white versus black design. White backgrounds pose a lot of problems with the painfulness of how bright it can be. In addition, I avoided black text on white background because this helps dyslexia, Irien Syndrome, light sensitivity, and autism. I was looking for colors that were feminine, calm, and happy. For the feminine color I wanted to use a pink or red color. For the calm color I wanted to use a pale and neutral color in the background. For the happy color, I wanted to use a shade of yellow somewhere in the design. I came  up with the following three color schemes and tested each of them based off the WCAG2.0 AA level. Color 1 was the only one that passed the check, so I decided to use that color scheme for my design. 
