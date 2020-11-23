@@ -18,11 +18,16 @@ My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b1
 ![all the frames](frames.png)
 
 
-### Screen 1
+### Filter
 
-### Screen 2
+### Sort
 
-### Screen 3
+### Social feed
+
+### Make a post
+
+### Write a review
+
 
 ## Impression test
 
