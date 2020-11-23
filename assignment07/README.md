@@ -30,7 +30,7 @@ My high fidelity prototype can be accessed here. The purpose of this prototype i
 
 ## Accessibility check
 
-![home screen 1](home 1.png)
+![home screen 1](home1.png)
 ![home screen 1 color check](home1check.png)
 
 ![home screen 2](home2.png)
