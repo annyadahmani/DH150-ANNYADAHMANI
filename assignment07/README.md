@@ -69,4 +69,22 @@ The link to a screen recording of the impression test can be accessed <a href="h
 ![home screen 3 color check](home3check.png)
 
 ### Summary of color check
-Starting off with the design, I knew I did not wanta simple white versus black design. White backgrounds pose a lot of problems with the painfulness of how bright it can be. In addition, I avoided black text on white background because this helps dyslexia, Irien Syndrome, light sensitivity, and autism. I was looking for colors that were feminine, calm, and happy. For the feminine color I wanted to use a pink or red color. For the calm color I wanted to use a pale and neutral color in the background. For the happy color, I wanted to use a shade of yellow somewhere in the design. I came  up with the following three color schemes and tested each of them based off the WCAG2.0 AA level. Color 1 was the only one that passed the check, so I decided to use that color scheme for my design. 
+Starting off with the design, I knew I did not wanta simple white versus black design. White backgrounds pose a lot of problems with the painfulness of how bright it can be. In addition, I avoided black text on white background because this helps dyslexia, Irien Syndrome, light sensitivity, and autism. I was looking for colors that were feminine, calm, and happy. For the feminine color I wanted to use a pink or red color. For the calm color I wanted to use a pale and neutral color in the background. For the happy color, I wanted to use a shade of yellow somewhere in the design. I came  up with the following three color schemes and tested each of them based off the WCAG2.0 AA level. Color 1 was the only one that passed the check, so I decided to use that color scheme for my design.
+
+### Interactive prototype
+My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b16a7180-907e-4c6d-455d-db2ed646b141-c75b/">here</a>.
+
+### Wireflow (Diagram)
+
+### Cognitive walkthrough
+Based on the cognitive walkthrough, I made edits to my original high fidelity prototype based on comments I received. 
+
+Comments from the cognitive walkthrough:
+* Home sceen: "i like the colors!" and "screen makes it clear that app is about baking!"
+* Search screen: "i feel like the whole search bar should be clickable, as the user would click on the search bar to type." **Addressing comment:** I decided to make a revision to my prototype by allowing the whole search bar to be clickable rather than just the search icon.
+* Welcome screen: "This screen can be a little confusing, since it's not immediately clear that the user should click on 'Social'/'Explore'/'Post.'" **Addressing comment:** I decided to add a text below the welcome text to let users know to navigate the app they must click one of the menu options at the bottom.
+* Social media page screen: "call to action buttons are not very visible, unclear on where to click." **Addressing comment:** I decided to make the "go to recipe" button look more like a button and more visibile to click
+* Make a post screen: "kind of confusing whether they are fillable input fields or buttons, users would be unsure what to do." **Addressing comment:** I decided to replace "add" with "type" to make it more clear that it is supposed to be fillable input and not buttons.
+* Posted recipe to social screen: "text is hard to see because it's small/thin." **Addressing comment:** I made the text bigger and removed the background fill.
+
+### Relfection
