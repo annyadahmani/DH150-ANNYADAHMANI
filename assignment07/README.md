@@ -90,7 +90,7 @@ My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b1
 ### Cognitive walkthrough
 Based on the cognitive walkthrough, I made edits to my original high fidelity prototype based on comments I received. 
 
-Comments from the cognitive walkthrough:
+Comments from the cognitive walkthrough as well as comments addressing them:
 * Home sceen: "i like the colors!" "screen makes it clear that app is about baking!" "very clear homepage, nice call to action buttons"
 * Search screen: "i feel like the whole search bar should be clickable, as the user would click on the search bar to type." **Addressing comment:** I decided to make a revision to my prototype by allowing the whole search bar to be clickable rather than just the search icon.
 * Welcome screen: "This screen can be a little confusing, since it's not immediately clear that the user should click on 'Social'/'Explore'/'Post.'" "I like how they show the user that they successfully logged in, but it's unclear where they should click next." **Addressing comment:** I decided to add a text below the welcome text to let users know to navigate the app they must click one of the menu options at the bottom.
