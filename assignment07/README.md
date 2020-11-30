@@ -15,7 +15,11 @@ My high fidelity prototype can be accessed <a href="https://xd.adobe.com/view/b1
 * <b>Sort:</b> The sort by feature allows users to sort the recipes they are looking at in a certain way, which allows users the power to see what recipes they see first and last in a list.
 
 ## Graphic design
+### Original frames
 ![all the frames](frames.png)
+
+### Updated frames based off cognitive walkthrough
+![updated all the frames](updatedframes.png)
 
 
 ### Filter
