@@ -11,6 +11,9 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+[read more…](https://github.com/annyadahmani/DH150-ANNYADAHMANI/blob/main/README.md)
+[read more…](https://github.com/annyadahmani/DH150-ANNYADAHMANI/tree/main/assignment02)
+
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
